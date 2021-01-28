@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/@s_aditya07 - the user whose solution helped me in understanding.
+// In the same way we can solve - subarrays with even sum, subarrays with odd sum, subarrays with odd xor
 #include<iostream>
 using namespace std;
 typedef long long int ll;
